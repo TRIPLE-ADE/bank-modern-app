@@ -1,5 +1,10 @@
 # bank-modern-app
 A Bank Modern App using React
+#Built with
+
+Mobile-first workflow
+Tailwind CSS - For styles
+React JS - FrameWork
 
 # Getting Started with Create React App
 
